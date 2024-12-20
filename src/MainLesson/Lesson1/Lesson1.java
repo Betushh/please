@@ -6,8 +6,10 @@ public class Lesson1 {
    //     System.out.println(args[1]);
         System.out.println(args[2]);
 
+
         System.out.println("liberal attacked");
         System.out.println("yeyyyy");
+        System.out.println("conflict");
 
 
 

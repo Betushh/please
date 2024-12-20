@@ -12,6 +12,8 @@ public class Homework5 {
         int s = calculator.getMaxAndMeanMultiple(3,4,7);
         System.out.println(s);
 
+        System.out.println("democrats");
+
 
     }
 }
